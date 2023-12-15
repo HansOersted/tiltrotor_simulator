@@ -5,7 +5,7 @@
 
 A tiltrotor simulator (Ryll's model) with 8 inputs based on Simulink
 
-Please cite the following references for the publications:
+Please cite the following references for your publication if using this simulator:
 
 Shen, Z. and Tsuchiya, T., 2022. Gait analysis for a tiltrotor The dynamic invertible gait. Robotics, 11(2), p.33.
 
