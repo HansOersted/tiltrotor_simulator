@@ -1,8 +1,7 @@
 # Tiltrotor Simulator Based on Simulink
 A tiltrotor simulator (Ryll's model) with 8 inputs based on Simulink
 
-
-
+<img width="384" alt="image" src="https://github.com/HansOersted/tiltrotor_simulator/assets/80969277/f573756c-b269-4ebb-9a57-92cafbcb81bf">
 
 
 
