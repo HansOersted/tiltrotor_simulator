@@ -10,3 +10,6 @@ Please cite the following references for your publication if using this simulato
 Shen, Z. and Tsuchiya, T., 2022. Gait analysis for a tiltrotor The dynamic invertible gait. Robotics, 11(2), p.33.
 
 Shen, Z. and Tsuchiya, T., 2022. Singular zone in quadrotor yaw–position feedback linearization. Drones, 6(4), p.84.
+
+
+E-mail: lucidshenzhe@gmail.com
